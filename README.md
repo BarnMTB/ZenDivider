@@ -18,6 +18,18 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 5. Rearrange it however you want
 6. One is never enough. Just open that same HTML file as a different tab, as much as you want!
 
+## Features
+- ✅ Single HTML file
+- ✅ Automatically focus the textbox on open. Load in and type away!
+- ✅ Press `Enter` or `Esc` to unfocus the textbox
+- ✅ Light & Dark scheme matches with the browser
+- ✅ Blank, transparent favicon to work as a visual indent, seperating your tabs visually; directly embeded as a 8px Base64 image for a clutter-free & low memory* experience
+- ✅ Fonts that matches your system fonts for a native feel
+- ✅ Color schemes that matches Microsoft Edge for a native Windows feel
+- ✅ Come on, it's just a dumb & simple HTML file, why do you keep writing features for it.
+
+_(*We can't guarantee that ZenDivider will take up minimal computing resource.)_
+
 ## Why?
 Because I just moved to Zen Browser and have so many tabs that it got as tall as Mt. Everest, making it hard to quickly scroll to the tab I want without a folder or a divider. 
 Meanwhile, [The Browser Company](https://thebrowser.company/) has [finally admitted](https://browsercompany.substack.com/p/letter-to-arc-members-2025) that its [Arc Browser](https://arc.net/) (which has tab folders) has been officially put in a ~life-support~ maintenance-only mode even on Mac, let alone on Windows which only got [half the features ported over](https://arcinternet.notion.site/Arc-for-Windows-Feature-Checklist-ffb56a81498845fc9ec9dfd6a045cd20?pvs=143) before the team moved onto developing the completely different [Dia Browser](https://diabrowser.com/). 
