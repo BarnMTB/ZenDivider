@@ -27,6 +27,8 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 - ✅ Fonts that matches your system fonts for a native feel
 - ✅ Color schemes that matches Microsoft Edge for a native Windows feel
 - ✅ Come on, it's just a dumb & simple HTML file, why do you keep writing features for it.
+- ✅ 8 is a lucky number
+- ✅ Gah! You ruined it!
 
 _(*We can't guarantee that ZenDivider will take up minimal computing resource.)_
 
