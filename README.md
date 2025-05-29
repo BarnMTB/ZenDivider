@@ -11,7 +11,7 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 
 
 # How to use it
-1. Download the HTML file
+1. [Download](https://github.com/BarnMTB/ZenDivider/releases) the HTML file
 2. ~Chuck~ _Put_ it somewhere on your computer
 3. Open it in the browser
 4. Click on the placeholder text and start typing
