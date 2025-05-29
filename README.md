@@ -6,7 +6,7 @@ You can rename the tab's title by typing into the textbox. Whatever you type int
 
 Great for browsers with vertical tabs.
 
-Created as an makeshift solution while waiting for Zen Browser to implement tab folders.
+Created as an makeshift solution while waiting for [Zen Browser](https://github.com/zen-browser/desktop) to [implement tab folders](https://github.com/zen-browser/desktop/pull/7359).
 
 
 # How to use it
