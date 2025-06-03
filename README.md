@@ -17,17 +17,18 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 5. Rearrange it however you want
 6. One is never enough. Just open that same HTML file as a different tab, as much as you want!
 
+# Other ways to use it
+- Get the Browser Extension. One button click to create a ZenDivider tab. [Learn more](https://github.com/BarnMTB/ZenDividerHelper)
+- Use the hosted GitHub Pages version. (Soon)
+
 ## Features
-- ✅ Single HTML file
+- ✅ Single HTML file, offline.
 - ✅ Automatically focus the textbox on open. Load in and type away!
 - ✅ Press `Enter` or `Esc` to unfocus the textbox
 - ✅ Light & Dark scheme matches with the browser
 - ✅ Blank, transparent favicon to work as a visual indent, seperating your tabs visually; directly embeded as a 8px Base64 image for a clutter-free & low memory* experience
 - ✅ Fonts that matches your system fonts for a native feel
 - ✅ Color schemes that matches Microsoft Edge for a native Windows feel
-- ✅ Come on, it's just a dumb & simple HTML file, why do you keep writing features for it.
-- ✅ 8 is a lucky number
-- ✅ Gah! You ruined it!
 
 _(*We can't guarantee that ZenDivider will take up minimal computing resource.)_
 
