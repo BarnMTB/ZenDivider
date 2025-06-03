@@ -4,8 +4,7 @@ A renamable divider for your tabs. Load it, Move it, Rename it.
 It's just a simple single-page HTML file that has a big textbox taking up the entire bottom-half of the page.
 You can rename the tab's title by typing into the textbox: Whatever you type into it will become the tab's title.
 
-Great for browsers with vertical tabs.
-
+Created with Zen Browser in mind. Great for browsers with vertical tabs.
 
 Created as an makeshift solution while waiting for [Zen Browser](https://github.com/zen-browser/desktop) to [implement tab folders](https://github.com/zen-browser/desktop/pull/7359). It'll look like a tab folder that's always opened.
 
