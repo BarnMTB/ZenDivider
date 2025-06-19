@@ -39,3 +39,5 @@ As much as I love using WinUI 3 apps with its smooth animations & beautiful nati
 
 ---
 This is an independent project. This project and this project's developer is not associated with the Zen Browser, Zen Team, or any of its developers in any way, shape, or form.
+
+<a href="https://github.com/BarnMTB/ZenDivider">ZenDivider</a> © 2025 by <a href="https://github.com/BarnMTB/ZenDividerHelper">BarnMTB</a>, including its source code, is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
