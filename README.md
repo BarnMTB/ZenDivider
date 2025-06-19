@@ -19,7 +19,6 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 
 # Other ways to use it
 - Get the Browser Extension. One button click to create a ZenDivider tab. [Learn more](https://github.com/BarnMTB/ZenDividerHelper)
-- Use the hosted GitHub Pages version. (Soon)
 
 ## Features
 - ✅ Single HTML file, offline.
