@@ -1,5 +1,6 @@
-# ZenDivider
-A renamable divider for your tabs. Load it, Move it, Rename it.
+<h1 align="center">ZenDivider</h1>
+<p align="center">A renamable divider for your tabs.</p>
+<p align="center">Load it, Move it, Rename it.</p>
 
 It's just a simple single-page HTML file that has a big textbox taking up the entire bottom-half of the page.
 You can rename the tab's title by typing into the textbox: Whatever you type into it will become the tab's title.
