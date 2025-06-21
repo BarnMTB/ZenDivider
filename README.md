@@ -21,11 +21,11 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 - Get the ZenDivider browser extension. Simple installation from Firefox Addons. One button click to create a ZenDivider tab without having to open file explorer. [Learn more](https://github.com/BarnMTB/ZenDividerHelper)
 
 ## Features
-- ✅ Single HTML file, offline.
-- ✅ Automatically focus the textbox on open. Load in and type away!
+- ✅ Single HTML file, Does not communicate with Internet, 100% Offline.
+- ✅ Automatically focus the textbox on open. Load it in and type away!
 - ✅ Press `Enter` or `Esc` to unfocus the textbox
-- ✅ Light & Dark scheme matches with the browser
-- ✅ Blank, transparent favicon to work as a visual indent, seperating your tabs visually; directly embeded as a 8px Base64 image for a clutter-free & low memory* experience
+- ✅ Light & Dark scheme automatically matches with the browser
+- ✅ Blank, transparent favicon to work as a visual indent, seperating your tabs visually; directly embeded as a 8px Base64 image for a simple singe-file experience.
 - ✅ Fonts that matches your system fonts for a native feel
 - ✅ Color schemes that matches Microsoft Edge/WinUI for a native feel
 
