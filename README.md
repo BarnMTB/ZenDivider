@@ -14,11 +14,11 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 2. ~Chuck~ _Put_ it somewhere on your computer
 3. Open it in the browser
 4. Click on the placeholder text and start typing
-5. Rearrange it however you want
-6. One is never enough. Just open that same HTML file as a different tab, as much as you want!
+5. Rearrange it around in the tab list however you want
+6. One is never enough. Just open that same HTML file in another tab, as much as you want! You can have many open, all with different names~
 
 # Other ways to use it
-- Get the Browser Extension. One button click to create a ZenDivider tab. [Learn more](https://github.com/BarnMTB/ZenDividerHelper)
+- Get the ZenDivider browser extension. Simple installation from Firefox Addons. One button click to create a ZenDivider tab without having to open file explorer. [Learn more](https://github.com/BarnMTB/ZenDividerHelper)
 
 ## Features
 - ✅ Single HTML file, offline.
@@ -27,15 +27,18 @@ Created as an makeshift solution while waiting for [Zen Browser](https://github.
 - ✅ Light & Dark scheme matches with the browser
 - ✅ Blank, transparent favicon to work as a visual indent, seperating your tabs visually; directly embeded as a 8px Base64 image for a clutter-free & low memory* experience
 - ✅ Fonts that matches your system fonts for a native feel
-- ✅ Color schemes that matches Microsoft Edge for a native Windows feel
-
-_(*We can't guarantee that ZenDivider will take up minimal computing resource.)_
+- ✅ Color schemes that matches Microsoft Edge/WinUI for a native feel
 
 ## Why?
-Because I just moved to Zen Browser and have so many tabs that it got as tall as Mt. Everest, making it hard to quickly scroll to the tab I want without a folder or a divider. 
-Meanwhile, [The Browser Company](https://thebrowser.company/) has [finally admitted](https://browsercompany.substack.com/p/letter-to-arc-members-2025) that its [Arc Browser](https://arc.net/) (which has tab folders) has been officially put in a ~life-support~ maintenance-only mode even on Mac, let alone on Windows which only got [half the features ported over](https://arcinternet.notion.site/Arc-for-Windows-Feature-Checklist-ffb56a81498845fc9ec9dfd6a045cd20?pvs=143) before the team moved onto developing the completely different [Dia Browser](https://diabrowser.com/). 
+  [The Browser Company of New York](https://thebrowser.company/) finally admitted officially that [Arc](https://arc.net/) is now [dead](https://browsercompany.substack.com/p/letter-to-arc-members-2025). [Dia](https://diabrowser.com/) killed it.   
+  Even Arc for Mac is now abandoned. So this sealed the fate of Arc for Windows, which only got halfway in [feature parity](https://arcinternet.notion.site/Arc-for-Windows-Feature-Checklist-ffb56a81498845fc9ec9dfd6a045cd20?pvs=143) before the development stalled as seemingly everyone at TBCNY moved everyone to work on Dia.  
+  Meanwhile I already fell in love with Zen before I knew it.  
 
-As much as I love using WinUI 3 apps with its smooth animations & beautiful native UI components that fit in with Windows, with Arc for Windows confirmed as having no future, moving back to it isn't really an option. And I don't want to hold back my projects just to wait for Zen to roll out folders, mess with modding browser's CSS & internal files, or go back to a traditional browser.
+  Zen is great but tabs are piling up as I work on my projects, and it's going to take a while for them to add tab folders like Arc. But without any kind of folders, it's going to be hard & slow to find the tab I want without something to categorize & divide them.  
+  Then I got an idea, and I realized I can do it; that idea is ZenDivider.  
+
+  It's not exactly the same thing as a tab folder but at least it can help alliviate my pain in a way that requires no tinkering (and thus no risk of browser breaking itself randomly one day).  
+  It makes me happy if you also find ZenDivider helpful to you as well : )  
 
 ---
 This is an independent project. This project and this project's developer is not associated with the Zen Browser, Zen Team, or any of its developers in any way, shape, or form.
