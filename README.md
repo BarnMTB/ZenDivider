@@ -5,7 +5,7 @@
 It's just a simple single-page HTML file that has a big textbox taking up the entire bottom-half of the page.
 You can rename the tab's title by typing into the textbox: Whatever you type into it will become the tab's title.
 
-Created with Zen Browser in mind. Great for browsers with vertical tabs.
+Created with Zen Browser in mind. Great for browsers with vertical tabs. Not tested but should work with all major browser.
 
 Created as an makeshift solution while waiting for [Zen Browser](https://github.com/zen-browser/desktop) to [implement tab folders](https://github.com/zen-browser/desktop/pull/7359). It'll look a bit similar to a tab folder if those can't be collapsed & has no icons.
 
