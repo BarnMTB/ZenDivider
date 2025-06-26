@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/ZenDivider Logo.png" width="350" align="center">
+</p>
+
 <h1 align="center">ZenDivider</h1>
 <p align="center">A renamable divider for your tabs.</p>
 <p align="center">Load it, Move it, Rename it.</p>
