@@ -53,8 +53,8 @@
 
     <script>
         const appName = "ZenDivider"
-        const appVersion = "202505_1.0"
-        const appAbout = appName + " by BarnMTB, Version " + appVersion + ", https://github.com/BarnMTB/ZenDivider"
+        const appVersion = "202506_1.1"
+        const appAbout = appName + " by BarnMTB, Licensed under CC BY-NC-SA 4.0, Version " + appVersion + ", https://github.com/BarnMTB/ZenDivider"
         const defaultTitle = appName
         const targetTextBox = document.getElementById('titleInput'); // Target textbox that contains input, locate by ID
 
@@ -67,7 +67,7 @@
             // Get the value of the 'text' query parameter
             var textValue = queryParams.get('text');
 
-            console.log(textValue); // Print the value of the 'text' query parameter
+            console.log("Recieved Text Query: " + textValue); // Print the value of the 'text' query parameter
             targetTextBox.value = textValue; // Set the text value in the target textbox to the query
 
             renameTabTitleCommit();
